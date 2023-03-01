@@ -19,7 +19,7 @@ class SubArray {
         }
     }
     public static void main(String args[]) {
-        int number[] = {2,7,11,15};//{2, 5, 7, 8, 6, 9};
+        int number[] = {2, 5, 7, 8, 6, 9};
         sArray(number);
     }
 }
